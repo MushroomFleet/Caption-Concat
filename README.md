@@ -3,7 +3,8 @@
 </a>
 
 # Caption-Concat
-Colab notebook which can add all captions from a dataset into a single file for other purposes such as training a prompt generator, as a wildcard or even GPT Training.
+Colab notebook which can add all captions from a dataset into a single file for other purposes. 
+These might include training a prompt generator, use as a wildcard or in other GPT Training.
 
 ![alt text](https://github.com/MushroomFleet/Caption-Concat/blob/main/concat-instruction.png?raw=true)
 
