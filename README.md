@@ -6,7 +6,7 @@
 Colab notebook which can add all captions from a dataset into a single file for other purposes. 
 These might include training a prompt generator, use as a wildcard or in other GPT Training.
 
-![alt text](https://github.com/MushroomFleet/Caption-Append/blob/main/captionappend.png?raw=true)
+![alt text](https://github.com/MushroomFleet/Caption-Concat/blob/main/concat-instruction.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Drift Johnson</h1>
 <h3 align="center">Data Scientist & Diffusion Designer from England</h3>
